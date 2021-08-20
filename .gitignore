@@ -1,5 +1,4 @@
 This code is given by Harsh Jindal
-This code is given by Jagdeep Kaur(Contributor)
 import cv2
 import mediapipe as mp
 import numpy as np
