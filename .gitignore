@@ -1,4 +1,4 @@
-This code is given by Harsh Jindal
+This code is given by Harsh Jindal and Jagdeep Kaur
 import cv2
 import mediapipe as mp
 import numpy as np
